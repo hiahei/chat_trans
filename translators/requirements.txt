@@ -1,0 +1,8 @@
+lxml
+tqdm
+httpx
+pathos
+requests
+niquests
+PyExecJS
+cryptography

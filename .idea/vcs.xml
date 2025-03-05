@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="VcsDirectoryMappings">
+    <mapping directory="$PROJECT_DIR$/ChatYuan" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/Voicechat" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/WhisperWriter" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/llm_sts" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/llm_sts/speech_campplus_sv_zh-cn_16k-common" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/translators" vcs="Git" />
+    <mapping directory="$PROJECT_DIR$/whisper_tran_en_ZH" vcs="Git" />
+  </component>
+</project>
